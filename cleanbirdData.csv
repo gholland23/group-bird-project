@@ -1,0 +1,151 @@
+objectid, birdName, originLatitude, originLongitude, desLatitude, desLongitude
+1,Albatross,25.27,-133.77,17.07,-96.73
+2,Alexandrine Parakeet,20.59,-78.96,0,0
+3,American Avocet,44.21,-54.53,-35.68,-71.53
+4,American Bittern,43.06,-105.26,32.17,-82.9
+5,American Coot,0,0,0,0
+6,American Goldfinch,46.65,-99,23.64,-102.53
+7,American Kestrel,0,0,0,0
+8,American Redstart,0,0,0,0
+9,Anhinga,26.44,-82.11,-34.41,63.61
+10,Annas Hummingbird,0,0,0,0
+11,Bald Eagle,0,0,0,0
+12,Baltimore Oriole,0,0,0,0
+13,Bananaquit,0,0,0,0
+14,Barn Owl,0,0,0,0
+15,Barn Swallow,0,0,0,0
+16,Bar-Tailed Godwit,0,0,0,0
+17,Bay-Breasted Warbler,0,0,0,0
+18,Belted Kingfisher,0,0,0,0
+19,Bird of Paradise,0,0,0,0
+20,Black Francolin,0,0,0,0
+21,Black Skimmer,0,0,0,0
+22,Black Swan,0,0,0,0
+23,Black Throated Warbler,0,0,0,0
+24,Black Burniam Warbler,0,0,0,0
+25,Black Capped Chickadee,0,0,0,0
+26,Black Necked Grebe,0,0,0,0
+27,Blue Heron,0,0,0,0
+28,Bobolink,0,0,0,0
+29,Brown Thrasher,0,0,0,0
+30,Cactus Wren,0,0,0,0
+31,California Condor,30.84,-115.28,0,0
+32,California Gull,0,0,0,0
+33,California Quail,0,0,0,0
+34,Cape May Warbler,45.05,-82.48,21.47,-78.66
+35,Cassowary,0,0,0,0
+36,Chara De Collar,0,0,0,0
+37,Chipping Sparrow,0,0,0,0
+38,Cinnamon Teal,0,0,0,0
+39,Cock of the Rock,0,0,0,0
+40,Cockatoo,-25.27,133.77,0,0
+41,Common Grackle,0,0,0,0
+42,Common House Martin,0,0,0,0
+43,Common Loon,0,0,0,0
+44,Common Poorwill,0,0,0,0
+45,Common Starling,0,0,0,0
+46,Couchs Kingbird,0,0,0,0
+47,Crested Auklet,52.12,-174.12,57.49,-153.49
+48,Crested Caracara,0,0,0,0
+49,Crow,0,0,0,0
+50,Crowned Pigeon,0,0,0,0
+51,Curl Crested Aracuri,0,0,0,0
+52,Dark Eyes Junco,0,0,0,0
+53,Downy Woodpecker,0,0,0,0
+54,Eastern Bluebird,0,0,0,0
+55,Eastern Rosella,-37.81,144.96,0,0
+56,Eastern Towee,0,0,0,0
+57,Elegant Trogon,31.48,-110.4,0,0
+58,Elliots Pheasant,0,0,0,0
+59,Emperor Penguin,0,0,0,0
+60,Emu,0,0,0,0
+61,Evening Grosbeak,47.06,-70.8,17.07,-96.73
+62,Flame Tanager,-21.16,-66.75,53.14,-57.66
+63,Flamingo,27.66,-81.52,-35.68,-71.54
+64,Frigate,16.54,-23.04,32.17,-82.9
+65,Glossy Ibis,40.8,-73.14,23.63,-102.53
+66,Gold Wing Warbler,0,0,0,0
+67,Golden Chlorophonia,0,0,0,0
+68,Golden Eagle,64.2,-149.49,45.55,-72.57
+69,Golden Pheasant,0,0,0,0
+70,Gouldian Finch,-33.87,151.21,-40.9,174.88
+71,Gray Catbird,0,0,0,0
+72,Gray Partridge,0,0,0,0
+73,Green Jay,27.5,-99.5,18.1,-77.29
+74,Grey Plover,0,0,0,0
+75,Guineafowl,0,0,0,0
+76,Hawaiian Goose,0,0,0,0
+77,Hooded Merganser,0,0,0,0
+78,Hoopoes,0,0,0,0
+79,Hornbill,0,0,0,0
+80,House Finch,0,0,0,0
+81,House Sparrow,0,0,0,0
+82,Hyacinth Macaw,0,0,0,0
+83,Indigo Bunting,0,0,0,0
+84,Jabiru,0,0,0,0
+85,Lark Bunting,0,0,0,0
+86,Lilac Roller,0,0,0,0
+87,Long-Eared Owl,0,0,0,0
+88,Mallard Duck,0,0,0,0
+89,Mandrin Duck,0,0,0,0
+90,Marabou Stork,0,0,0,0
+91,Mikado Pheasant,0,0,0,0
+92,Mourning Dove,0,0,0,0
+93,Myna,0,0,0,0
+94,Nicobar Pigeon,0,0,0,0
+95,Northern Cardinal,0,0,0,0
+96,Northern Flicker,0,0,0,0
+97,Northern Goshawk,0,0,0,0
+98,Northern Jacana,0,0,0,0
+99,Northern Mockingbird,0,0,0,0
+100,Northern Red Bishop,0,0,0,0
+101,Osprey,44.4,-110.59,1.83,-78.18
+102,Ostrich,19.06,13.54,0,0
+103,Painted Buntig,35.25,-75.54,19.43,-99.13
+104,Paradise Tanager,10.48,-66.9,8.53,-80.78
+105,Parus Major,46.23,2.21,0,0
+106,Peacock,0,0,0,0
+107,Pelican,0,0,0,0
+108,Peregrine Falcon,0,0,0,0
+109,Pink Robin,0,0,0,0
+110,Puffin,0,0,0,0
+111,Purple Finch,0,0,0,0
+112,Purple Gallinule,0,0,0,0
+113,Purple Martin,0,0,0,0
+114,Purple Swamphen,0,0,0,0
+115,Quetzal,0,0,0,0
+116,Rainbow Lorikeet,0,0,0,0
+117,Red Faced Cormorant,0,0,0,0
+118,Red Headed Woodpecker,0,0,0,0
+119,Red Throated Bee Eater,0,0,0,0
+120,Red Winged Blackbird,0,0,0,0
+121,Red Wiskered Bulbul,0,0,0,0
+122,Ring-Necked Pheasant,0,0,0,0
+123,Roadrunner,0,0,0,0
+124,Robin,0,0,0,0
+125,Rosy Faced Lovebird,0,0,0,0
+126,Rough Leg Buzzard,0,0,0,0
+127,Ruby Throated Hummingbird,0,0,0,0
+128,Sandy Martin,0,0,0,0
+129,Scarlet Ibis,0,0,0,0
+130,Scarlet Macaw,0,0,0,0
+131,Snowy Egret,0,0,0,0
+132,Splendid Wren,0,0,0,0
+133,Spoonbill,0,0,0,0
+134,Stork Billed Kingfisher,0,0,0,0
+135,Strawberry Finch,0,0,0,0
+136,Teal Duck,0,0,0,0
+137,Tit Mouse,0,0,0,0
+138,Toucan,0,0,0,0
+139,Trumpter Swan,0,0,0,0
+140,Turkey Vulture,0,0,0,0
+141,Turquoise Motmot,0,0,0,0
+142,Varied Thrush,0,0,0,0
+143,Venezuelian Troupial,0,0,0,0
+144,Vermilion Flycather,0,0,0,0
+145,Violet Green Swallow,0,0,0,0
+146,Western Meadowlark,39.01,-98.48,28.63,-106.96
+147,Wild Turkey,37.96,-91.83,57.96,-101.83
+148,Wilson Bird of Paradise,0.17,-131.04,0,0
+149,Wood Duck,40.05,-74.4,40.05,-74.4
+150,Yellow Headed Blackbird,40.28,-110.71,-12.04,-77.04

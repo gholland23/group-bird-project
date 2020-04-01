@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>FLY LIKE A BIRD</title>
+
+  <!-- Bring in our bootstrap stylesheet -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<!--NAVBAR-->
+<!--THIS GOES ON EVERY HTML-->
+<div class= "nagivation">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="group_index.html">BIRDS</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="Origin.html">Origin</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Migration.html">Migration</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Destination.html">Destination</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Gallery.html">Gallery</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+  
+<!--start of shit on page-->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+        <h1>WE LIKE BIRDS</h1>
+        <p> As a group, we decided to branch out the box for this project. The reason being is that the majority of the world right now
+          is sad. The COVID-19 pandemic has not only taken over the world, but it also invaded Kaggle. While scanning the website for topics, it seemed like every 
+          freaking dataset was about COVID and its stats. Then, we came upon a dataset about birds...and well no pun intended, but our 
+          imaginations took flight. 
+        </p>
+        <h2>
+          QUESTIONS WE WANTED TO ANSWER!
+        </h2>
+        <li>
+          "Where are these birds located?"
+        </li>
+        <li>
+          "Where do they migrate to?"
+        </li>
+        <li>
+          "Is it safe to say birds migrate to the equator?"
+        </li>
+        <h2>
+          HOW DID WE DO IT?
+        </h2>
+        <li>
+          Our original dataset only contained the names of 150 birds and pictures that associated each bird. In order to answer these questions 
+          we had to look up and generate coordinates for each bird and create a true database. Out of the 150 birds we chose 30 to look up 
+          origin and migration coordinates of. After this data was collected, Nam used Postgres to create that database. 
+        </li>
+        <li>
+          The second step was to use leaflet to map out the bird's location (origin markers). 
+        </li>
+        <li>
+          Then using the destination markers we would use leaflet to create lines demonstrating the migration patterns of our birds.
+        </li>
+        <li>
+          Lastly, we plotted markers using the destination locations and plotted a shape around the equator with appropriate measurements
+          in hopes of ansewring our question.
+        </li>
+        
+    </div>
+  </div>
+</div>
+
+
+
+
+</body>
+</html>
